@@ -1,4 +1,4 @@
 # Discord-Tools
-A Discord tool mainly for Zako Clan
+Discord tools mainly for Zako Clan
 
 🍝
